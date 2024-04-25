@@ -24,3 +24,16 @@ For the Take Home Challenge, I've developed an application tailored for efficien
     cd client
     npm install
     ```
+## Run
+1. Start the MongoDB server.
+2. Back to the project root directory, start the backend server:
+    ```
+    cd server
+    npm start
+    ```
+3. In a separate terminal, navigate to the `client` directory and start the frontend server:
+    ```
+    cd client
+    npm start
+    ```
+4. Open your browser and navigate to `http://localhost:3000` to access the todo application.

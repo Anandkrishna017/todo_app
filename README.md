@@ -31,12 +31,18 @@ For the Take Home Challenge, I've developed an application tailored for efficien
     cd server
     npm start
     ```
-3. In a separate terminal, navigate to the `client` directory and start the frontend server:
+3. Create an `.env` file inside the server directory and add the following variables:
+    ```
+    URL=mongodb://localhost:27017/hatio
+    PORT=8080
+    JWT_SECRET=key
+    ```
+4. In a separate terminal, navigate to the `client` directory and start the frontend server:
     ```
     cd client
     npm start
     ```
-4. Open your browser and navigate to `http://localhost:3000` to access the todo application.
+5. Open your browser and navigate to `http://localhost:3000` to access the todo application.
 
 ## Test
 - There are no automated tests included in this project. However, you can manually test the functionality by:

@@ -1,0 +1,17 @@
+.list-group {
+  list-style: none;
+  padding: 0;
+}
+
+.list-group-item {
+  display: flex;
+  align-items: center;
+}
+
+.delete-button {
+  margin-left: auto;
+}
+
+.project-add{
+  display: flex;
+}

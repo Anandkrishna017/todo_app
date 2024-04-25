@@ -104,7 +104,7 @@ const Home = () => {
         <ul className="list-group">
           {projects.map(project => (
             <li key={project._id} className="list-group-item">
-              <Link to={`/todo/${project._id}/${encodeURIComponent(project.projectName)}`} style={{ textDecoration: 'none', color: 'Black' }}  >
+              <Link to={`/todo/${project._id}/${encodeURIComponent(project.projectName)}`} style={{ textDecoration: 'none', color: 'Green' }}  >
                 <h1>{project.projectName}</h1>
               </Link>
               <button className='delete-button btn btn-danger' onClick={() => deleteProject(project._id)}>delete</button>

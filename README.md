@@ -37,3 +37,13 @@ For the Take Home Challenge, I've developed an application tailored for efficien
     npm start
     ```
 4. Open your browser and navigate to `http://localhost:3000` to access the todo application.
+
+## Test
+- There are no automated tests included in this project. However, you can manually test the functionality by:
+    - Signing up using your first name, last name, email, and password.
+    - Signing in using your registered email and password.
+    - Adding or deleting projects on the home page.
+    - Logging out of the application.
+    - Inside a project, you can add, delete, or update todos and their descriptions.
+    - Exporting the gist file to the local system.
+

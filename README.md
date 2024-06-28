@@ -8,11 +8,11 @@ For the Take Home Challenge, I've developed an application tailored for efficien
      - Download the zip file and extract it
     or
     ```
-    git clone https://github.com/Anandkrishna017/HATIO--Take-Home-Challenge.git
+    git clone https://github.com/Anandkrishna017/todo_app.git
     ```
 4. Navigate to the project directory:
     ```
-    cd HATIO--Take-Home-Challenge-main
+    cd todo_app-main
     ```
 5. Install the backend dependencies:
     ```

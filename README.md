@@ -1,4 +1,4 @@
-# HATIO--Take-Home-Challenge
+# Todo_App
 
 ## Description
 For the Take Home Challenge, I've developed an application tailored for efficient todo management. This application empowers users to seamlessly organize tasks within projects, enabling them to create new projects and efficiently manage todos within each project. With intuitive functionalities such as adding, editing, updating, and marking todos as complete, users can streamline their workflow effortlessly.

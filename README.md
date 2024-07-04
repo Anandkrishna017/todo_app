@@ -33,7 +33,7 @@ For the Take Home Challenge, I've developed an application tailored for efficien
     ```
 3. Create an `.env` file inside the server directory and add the following variables:
     ```
-    URL=mongodb://localhost:27017/hatio
+    URL=mongodb://localhost:27017/test
     PORT=8080
     JWT_SECRET=key
     ```
